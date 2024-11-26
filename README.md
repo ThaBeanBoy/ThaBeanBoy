@@ -49,7 +49,13 @@ Customers can easily browse through a variety of available services and request 
 
 To further enhance the accessibility of the system, we developed a mobile application to work in tandem with the web app. The mobile app streamlines customer interactions, allows workers to easily upload images of the worksite, and enables supervisors to capture and store accurate measurements directly from their devices. Our Artisan Management System is designed to optimize the service management process, maintaining flexibility and efficiency to ensure a seamless experience for both customers and workers. 
 
+### BevStream Music Player
+
+### GalleriaHub
+
 ### Chicken Timetable Generator
+
+### Writal
 
 ## Let's connect
 
