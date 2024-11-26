@@ -10,7 +10,16 @@
 - [About Me](#about-me)
   
 ## Favorite technologies
+
 ![Nextjs](./icons/next.png)
+![Figma](./icons/react.png)
+![Figma](./icons/figma.png)
+![Figma](./icons/github.png)
+![Figma](./icons/graphql.png)
+![Figma](./icons/node.png)
+![Figma](./icons/tailwind.png)
+![Figma](./icons/ts.png)
+![Figma](./icons/websocket.png)
 
 ## Projects
 
