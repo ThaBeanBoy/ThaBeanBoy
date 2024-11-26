@@ -6,8 +6,13 @@
 - [Favorite technologies](#favorite-technologies)
 - [Projects](#projects)
    * [Artisian Service Management & Scheduling](#artisian-service-management-scheduling)
+      + [Background](#background)
+      + [Solution](#solution)
+      + [Mobile Application](#mobile-application)
+   * [Chicken Timetable Generator](#chicken-timetable-generator)
 - [Let's connect](#lets-connect)
 - [About Me](#about-me)
+- [Repos, Commit History & Activities](#repos-commit-history-activities)
   
 ## Favorite technologies
 
@@ -44,6 +49,8 @@ Customers can easily browse through a variety of available services and request 
 
 To further enhance the accessibility of the system, we developed a mobile application to work in tandem with the web app. The mobile app streamlines customer interactions, allows workers to easily upload images of the worksite, and enables supervisors to capture and store accurate measurements directly from their devices. Our Artisan Management System is designed to optimize the service management process, maintaining flexibility and efficiency to ensure a seamless experience for both customers and workers. 
 
+### Chicken Timetable Generator
+
 ## Let's connect
 
 - [Sololearn](https://www.sololearn.com/profile/14275902)
@@ -52,3 +59,5 @@ To further enhance the accessibility of the system, we developed a mobile applic
 - Engage with a few [YouTube videos](https://www.youtube.com/channel/UCOZwrAkQxKnJhm9OqfUwRdw)
 
 ## About Me
+
+## Repos, Commit History & Activities
