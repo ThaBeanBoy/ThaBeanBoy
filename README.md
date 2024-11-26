@@ -80,7 +80,9 @@ To solve the poultry farm's organizational challenges, I developed a timetable g
 
 ### Interactive Card Form
 
-https://github.com/ThaBeanBoy/Front-End-Mentor-Interactive-Card-Details-Form
+[Repo](https://github.com/ThaBeanBoy/Front-End-Mentor-Interactive-Card-Details-Form)
+
+![card thumbnail](./card-thumnail.png)
 
 I developed an interactive application that enhances user experience by dynamically reflecting the account number on a card displayed in the hero image as the user types it into the form. This real-time visual feedback provides immediate confirmation of the input, creating a more engaging and intuitive interface. To ensure the accuracy and reliability of the data, I implemented comprehensive form validation for the account details. The validation checks included verifying the format, length, and character restrictions of the account number, ensuring the data was correct before submission. This approach streamlined the process, minimized user errors, and improved the overall functionality of the application.
 
