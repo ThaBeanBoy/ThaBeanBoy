@@ -12,4 +12,5 @@ Engage with a few [YouTube videos](https://www.youtube.com/channel/UCOZwrAkQxKnJ
 
 ### Artisian Service Management & Scheduling
 
-[![thumnail](./thumnail)](https://www.youtube.com/watch?v=z-xXZEdPICg)
+(image is a link to YouTube video)
+[![thumnail](./thumnail.png)](https://www.youtube.com/watch?v=z-xXZEdPICg)
