@@ -55,7 +55,7 @@ Customers can easily browse through a variety of available services and request 
 [Repo](https://github.com/ThaBeanBoy/GalleriaHub)
 
 (image is a link to YouTube video)
-[![thumnail](./thumnail.png)](https://www.youtube.com/watch?v=z-xXZEdPICg)
+[![thumnail](./galleria-thumnail.png)](https://www.youtube.com/watch?v=z-xXZEdPICg)
 
 #### Background
 
