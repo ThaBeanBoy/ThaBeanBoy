@@ -1,7 +1,7 @@
 # Ola Muchachos & Chachas 🦦
 (I don't speak spanish btw)
 
-## Table of Content 
+## Table of Content 🧾
 
 - [Favorite technologies](#favorite-technologies)
 - [Projects](#projects)
