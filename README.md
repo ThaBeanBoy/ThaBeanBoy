@@ -3,18 +3,18 @@
 
 ## Table of Content 🧾
 
-- [Favorite technologies](#favorite-technologies)
+- [Favorite Languages and Technologies](#favorite-languages-and-technologies)
 - [Projects](#projects)
    * [Artisian Service Management & Scheduling](#artisian-service-management-scheduling)
-      + [Background](#background)
-      + [Solution](#solution)
-      + [Mobile Application](#mobile-application)
+   * [BevStream Music Player](#bevstream-music-player)
+   * [GalleriaHub](#galleriahub)
    * [Chicken Timetable Generator](#chicken-timetable-generator)
+   * [Interactive Card Form](#interactive-card-form)
 - [Let's connect](#lets-connect)
 - [About Me](#about-me)
-- [Repos, Commit History & Activities](#repos-commit-history-activities)
+- [Repos, Commit History and Activities](#repos-commit-history-and-activities)
   
-## Favorite technologies
+## Favorite Languages and Technologies
 
 ![Nextjs](./icons/next.png)
 ![Figma](./icons/react.png)
@@ -49,6 +49,16 @@ Customers can easily browse through a variety of available services and request 
 
 ### BevStream Music Player
 
+![bevstream thumbnail](./bevstream-thumbnail.png)
+
+#### Background
+
+A close friend of mine has always been passionate about music, so for their birthday, I wanted to create something truly special and personal. I decided to develop a music streaming app tailored just for them. The app featured a user-friendly interface, a curated playlist of their favorite genres and artists, and the ability to explore new music. It was designed to reflect their unique taste and style, making it a one-of-a-kind gift. The joy and excitement on their face when they realized it was custom-built for them made all the effort worthwhile.
+
+#### Solution
+
+To create the music streaming app, I leveraged React and Vite to build a fast, responsive, and dynamic user interface. React allowed me to craft a seamless user experience with interactive features, while Vite ensured efficient bundling and a smooth development workflow. To handle the app's assets, including music tracks, cover art, and lyric files, I utilized an S3 bucket. This approach provided secure, scalable, and cost-effective storage, ensuring the files were easily accessible and could support future expansions. The combination of these technologies resulted in a robust, high-performance application that my music-loving friend truly appreciated.
+
 ### GalleriaHub
 
 [YouTube](https://www.youtube.com/watch?v=z-xXZEdPICg)
@@ -62,8 +72,6 @@ Customers can easily browse through a variety of available services and request 
 GallariaHub, an online Paint Gallery E-Commerce platform, empowers artists to showcase and sell original artworks directly to customers.
 
 The platform caters to both emerging artists and established painters, offering a diverse collection of paintings that cater to various tastes and preferences. Fosters a creative and supportive community, to make art accessible to a broader audience while providing artists with an avenue to reach a global market. GallariaHub presents an exciting opportunity to transform the way painters and customers interact in the art world. Provides a user-friendly and feature-rich platform, to empower artists while offering art enthusiasts a diverse and immersive shopping experience.
-
-### Writal
 
 ### Chicken Timetable Generator
 
@@ -94,5 +102,7 @@ I developed an interactive application that enhances user experience by dynamica
 - Engage with a few [YouTube videos](https://www.youtube.com/channel/UCOZwrAkQxKnJhm9OqfUwRdw)
 
 ## About Me
+
+I started coding in grade 11, and ever since, it has been a journey of discovery and growth in the world of technology. My passion for development continues to drive me as I aspire to expand my expertise in software development and the infrastructure that powers applications. I am also deeply interested in understanding cybersecurity to build secure systems and exploring how data can be leveraged to drive insights and decision-making in data-driven organizations. My ambition is to become a well-rounded developer who not only writes code but also understands the ecosystem that makes software impactful and secure.
 
 ## Repos, Commit History and Activities
