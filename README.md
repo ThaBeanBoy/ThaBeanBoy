@@ -7,3 +7,7 @@ Get a hold of me:
 - [Leetcode](https://leetcode.com/u/ThaBeanBoy/)
 
 Engage with a few [YouTube videos](https://www.youtube.com/channel/UCOZwrAkQxKnJhm9OqfUwRdw)
+
+## Projects
+
+### Artisian Service Management & Scheduling
