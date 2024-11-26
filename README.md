@@ -30,6 +30,8 @@
 
 ### Artisian Service Management & Scheduling
 
+[YouTube video](https://www.youtube.com/watch?v=z-xXZEdPICg)
+
 (image is a link to YouTube video)
 [![thumnail](./thumnail.png)](https://www.youtube.com/watch?v=z-xXZEdPICg)
 
@@ -43,15 +45,23 @@ The project was built with Next.js and React.js on the frontend, ensuring a fast
 
 #### Solution
 
-Customers can easily browse through a variety of available services and request the one that suits their needs. Once a request is submitted, supervisors are notified and can accept the service request. The supervisor then conducts an on-site inspection, providing an estimated quotation for the job. After the inspection, the necessary resources and workers are allocated, and the customer is able to schedule a convenient time for the job to be completed. Once the scheduled time arrives, the assigned workers carry out the task, documenting the completed work by taking images, which are then sent to the supervisor for approval. Once the job is verified, the remaining payments are processed, and the job is marked as complete.
-
-#### Mobile Application
-
-To further enhance the accessibility of the system, we developed a mobile application to work in tandem with the web app. The mobile app streamlines customer interactions, allows workers to easily upload images of the worksite, and enables supervisors to capture and store accurate measurements directly from their devices. Our Artisan Management System is designed to optimize the service management process, maintaining flexibility and efficiency to ensure a seamless experience for both customers and workers. 
+Customers can easily browse through a variety of available services and request the one that suits their needs. Once a request is submitted, supervisors are notified and can accept the service request. The supervisor then conducts an on-site inspection, providing an estimated quotation for the job. After the inspection, the necessary resources and workers are allocated, and the customer is able to schedule a convenient time for the job to be completed. Once the scheduled time arrives, the assigned workers carry out the task, documenting the completed work by taking images, which are then sent to the supervisor for approval. Once the job is verified, the remaining payments are processed, and the job is marked as complete. 
 
 ### BevStream Music Player
 
 ### GalleriaHub
+
+[YouTube](https://www.youtube.com/watch?v=z-xXZEdPICg)
+[Repo](https://github.com/ThaBeanBoy/GalleriaHub)
+
+(image is a link to YouTube video)
+[![thumnail](./thumnail.png)](https://www.youtube.com/watch?v=z-xXZEdPICg)
+
+#### Background
+
+GallariaHub, an online Paint Gallery E-Commerce platform, empowers artists to showcase and sell original artworks directly to customers.
+
+The platform caters to both emerging artists and established painters, offering a diverse collection of paintings that cater to various tastes and preferences. Fosters a creative and supportive community, to make art accessible to a broader audience while providing artists with an avenue to reach a global market. GallariaHub presents an exciting opportunity to transform the way painters and customers interact in the art world. Provides a user-friendly and feature-rich platform, to empower artists while offering art enthusiasts a diverse and immersive shopping experience.
 
 ### Chicken Timetable Generator
 
@@ -70,4 +80,4 @@ https://github.com/ThaBeanBoy/Front-End-Mentor-Interactive-Card-Details-Form
 
 ## About Me
 
-## Repos, Commit History & Activities
+## Repos, Commit History and Activities
