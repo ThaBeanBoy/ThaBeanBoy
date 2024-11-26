@@ -10,6 +10,7 @@
 - [About Me](#about-me)
   
 ## Favorite technologies
+![Nextjs](./icons/next.png)
 
 ## Projects
 
