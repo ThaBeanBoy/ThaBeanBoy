@@ -47,9 +47,9 @@ The project was built with Next.js and React.js on the frontend, ensuring a fast
 
 Customers can easily browse through a variety of available services and request the one that suits their needs. Once a request is submitted, supervisors are notified and can accept the service request. The supervisor then conducts an on-site inspection, providing an estimated quotation for the job. After the inspection, the necessary resources and workers are allocated, and the customer is able to schedule a convenient time for the job to be completed. Once the scheduled time arrives, the assigned workers carry out the task, documenting the completed work by taking images, which are then sent to the supervisor for approval. Once the job is verified, the remaining payments are processed, and the job is marked as complete. 
 
-### BevStream Music Player
+### MusicStream Music Player
 
-![bevstream thumbnail](./bevstream-thumbnail.png)
+![bevstream thumbnail](./music-thumbnail.png)
 
 #### Background
 
