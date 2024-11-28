@@ -49,7 +49,7 @@ Customers can easily browse through a variety of available services and request 
 
 ### MusicStream Music Player
 
-![bevstream thumbnail](./music-thumbnail.png)
+![bevstream thumbnail](./music-thumnail.png)
 
 #### Background
 
